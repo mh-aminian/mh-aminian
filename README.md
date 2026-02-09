@@ -1,7 +1,7 @@
 # 👋 Hi, I'm Mohammad Hossein Aminian  
-### 💻 Data Scientist | Data Analyst | Researcher  
+### 💻 Data Scientist | AI & ML Researcher | BI & Data Engineering 
 
-🚀 I have over 2.5 years of experience working with data and ML/AI. I hold a B.Sc. in Computer Engineering and love digging into complex datasets to uncover meaningful insights. Lately, I’ve been deepening my expertise by exploring exciting areas like MLOps, generative AI, and large language models (LLMs), always eager to take on bigger challenges and build smarter, more creative systems.
+🚀 I have over 4 years of experience working with data and ML/AI. I hold a B.Sc. in Computer Engineering and love digging into complex datasets to uncover meaningful insights. Lately, I’ve been deepening my expertise by exploring exciting areas like MLOps, generative AI, and large language models (LLMs), always eager to take on bigger challenges and build smarter, more creative systems.
 
 
 [![Email](https://img.shields.io/badge/Email-D14836?style=for-the-badge&logo=gmail&logoColor=white)](mailto:mohammadhossein.aminian@gmail.com)
